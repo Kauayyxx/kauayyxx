@@ -1,16 +1,43 @@
-## Hi there 👋
+## Hi there 💻
+<h1 align="center">✦ Welcome to my profile! ✦</h1>
 
-<!--
-**Kauayyxx/kauayyxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Kauã Brito Dias
+### Desenvolvedor Front End
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estudante de programação no DevClub
+<br>
+🌐 Atualmente focado em Front-End (HTML + CSS)
+<br>
+📁 Explorando o GitHub e aprendendo versionamento
+<br>
+☕ Em breve mergulhando no mundo Java
+<br>
+🚀 Em constante evolução, um código por vez!
+<br>
+---
+
+### 🛠️ Linguagens e Tecnologias
+<div style="display: flex; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+</div>
+
+---
+
+### 📫 Contato
+
+- Email: kauab5197@gmail.com
+
+
+---
+
+### 📊 Estatísticas do GitHub
+
+![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=kauayyxx&show_icons=true&theme=tokyonight)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kauayyxx&layout=compact&theme=tokyonight)
+
+
+
